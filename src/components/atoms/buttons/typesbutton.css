@@ -1,0 +1,17 @@
+.types-btn{
+    background-color:#9F265B;
+    border: none;
+    border-radius: 20px;
+    padding-block: 10px;
+    padding-inline: 30px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.view-all{
+    color: #9F265B;
+    border: none;
+    background-color: transparent;
+    margin-right: 100px;
+    cursor: pointer;
+}

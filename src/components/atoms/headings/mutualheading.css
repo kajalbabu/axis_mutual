@@ -1,0 +1,16 @@
+.mutual-heading {
+  padding-left: 10%;
+}
+.mutual-heading-welcome-heading {
+  padding-left: 10%;
+  font-weight: 700;
+}
+.mutual-heading-learn-heading {
+  padding-left: 10%;
+  font-size: 25px;
+  font-weight: 500;
+}
+.mutual-heading-text-in-header{
+    font-weight: 400;
+    font-size: large;
+}

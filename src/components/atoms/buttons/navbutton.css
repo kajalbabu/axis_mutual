@@ -1,0 +1,11 @@
+.nav-btn {
+  background-color: transparent;
+  border: none;
+  color: rgb(116, 42, 42);
+  font-size: 35px;
+  cursor: pointer;
+}
+.nav-btn:disabled{
+    color: rgb(172, 170, 170);
+    cursor: default;
+  }
